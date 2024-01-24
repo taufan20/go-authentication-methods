@@ -1,0 +1,1 @@
+module http-auth-sample
